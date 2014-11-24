@@ -1,3 +1,8 @@
+---
+layout: post
+title: Introduktion
+---
+
 ###Intro
 
 Den första december så börjar jag mitt 26 veckors långa träningsperiod inför Stockholm Marathon. Att det är just 26 veckor är ingen tillfällighet utan min träning kommer att vara baserad på Anders Szalkais 26 veckors långa träningsprogram inför ett marathon. 
