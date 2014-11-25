@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Erik Pettersson
-tagline:             'En löpare'
+tagline:             'Mina tankar kring löpning'
 description:         'En blogg om min träning inför Stockholm Marathon'
 url:                 http://lanyon.getpoole.com
 baseurl:             /
