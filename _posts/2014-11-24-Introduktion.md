@@ -12,13 +12,6 @@ Upplägget kommer alltså att vara 26 veckors träning. En skillnad mot hans pro
 Bågen kommer att spännas. Den kommer att spännas rejält. Det är ingen pilbåge för barn utan här snackar vi en båga som används vid björnjakt. Målet är i dagsläget satt till 3:45. Utgångsläget är att jag gör milen på 52 minuter. Bästa tid på Stockholm Marathon är 5:03. Ett mål på 3:45 skulle alltså vara en förbättring med 1h och 20 min, det är mycket men ingen omöjlighet! 
 
 Nedan är en lista på km tider som behövs för att komma i mål på olika tider. Går man efter denna så måste jag ligga på 5:20 fart i snitt. (Då har jag inte dragit av tid för de dubbla toalettbesök som jag brukar få göra under ett långlopp...)  
--   5:00 min/km => 3:30
--   5:10 min/km => 3:38
--   5:20 min/km => 3:45
--   5:30 min/km => 3:52
--   5:40 min/km => 3:59
--   5:50 min/km => 4:06
--   6:00 min/km => 4:13
 
 ### KPI:er
 Varje vecka kommer följande parametrar att analyseras
