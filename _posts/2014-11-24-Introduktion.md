@@ -27,44 +27,48 @@ Nedan är en lista på olika min/km tider som behövs för att komma i mål på 
 
 Varje vecka kommer följande parametrar/kpier att analyseras
 
-| Vecka | Antal Pass | Antal Löpnings Pass | Antal KM | Vikt | Fett% | VO2 Max | Smidiget |
-|-------|------------|---------------------|----------|------|-------|---------|----------|
-| 0     |            |                     |          |      |       |         |          |
-
-+-------+------------+---------------------+----------+------+-------+---------+----------+
-| Vecka | Antal Pass | Antal Löpnings Pass | Antal KM | Vikt | Fett% | VO2 Max | Smidiget |
-+-------+------------+---------------------+----------+------+-------+---------+----------+
-| 0     |            |                     |          |      |       |         |          |
-+-------+------------+---------------------+----------+------+-------+---------+----------+
-
-{| class="wikitable"
-! Vecka
-! Antal Pass
-! Antal Löpnings Pass
-! Antal KM
-! Vikt
-! Fett%
-! VO2 Max
-! Smidiget
-|-
-| 0
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-|}
-
-
-*   Antal Träningspass
-*   Antal Löpningspass
-*   Antal KM
-*   Vikt
-*   Fettprocent
-*   V02 Max
-*   Vighet/Stelhet
+<table>
+  <tr>
+    <th>Vecka</th>
+    <th>Antal Träningspass</th>
+    <th>Antal Löpningspass/th>
+    <th>Antal KM</th>
+    <th>Vikt</th>
+    <th>Fettprocent</th>
+    <th>VO2 Max</th>
+    <th>Smidighet/stelhet</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 #### Kommentarer till KPI:er. 
 De flesta är inga konstigheter. De som går att fundera på är de två nedersta. V02 Max och vighet/stelhet. V02 Max har jag en mätare för som jag ska prova att använda. När det kommer till vighet/stelhet så har jag helt enkelt tänkt mäta hur många cm som jag har kvar till marken då jag böjer mig fram med raka ben. Det är ju ett jäkligt diffust mått på om smidigheten ändras men det är i alla fall bättre än inget.
