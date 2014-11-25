@@ -27,6 +27,11 @@ Nedan är en lista på olika min/km tider som behövs för att komma i mål på 
 
 Varje vecka kommer följande parametrar/kpier att analyseras
 
+| Vecka | Antal Pass | Antal Löpnings Pass | Antal KM | Vikt | Fett% | VO2 Max | Smidiget |
+|-------|------------|---------------------|----------|------|-------|---------|----------|
+| 0     |            |                     |          |      |       |         |          |
+
+
 *   Antal Träningspass
 *   Antal Löpningspass
 *   Antal KM
