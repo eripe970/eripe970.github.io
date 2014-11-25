@@ -24,7 +24,9 @@ Varje vecka kommer följande parametrar att analyseras
 Bågen kommer att spännas. Den kommer att spännas hårt. Målet är satt till 3:45 i dagsläget. 
 
 
-
++   Candy.
++   Gum.
++   Booze.
 
 ### Inspiration
 Inspiration för att föra någon form av dagbok/veckorbok över träningen och utvecklingen kommer från Hannes Wikander. Han har även inspirerat en del kring kpi-mätningar. 
