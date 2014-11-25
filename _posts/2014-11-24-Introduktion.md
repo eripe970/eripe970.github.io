@@ -13,6 +13,14 @@ Bågen kommer att spännas. Den kommer att spännas rejält. Det är ingen pilb�
 
 Nedan är en lista på km tider som behövs för att komma i mål på olika tider. Går man efter denna så måste jag ligga på 5:20 fart i snitt. (Då har jag inte dragit av tid för de dubbla toalettbesök som jag brukar få göra under ett långlopp...)  
 
+-   5:00 min/km => 3:30
+-   5:10 min/km => 3:38
+-   5:20 min/km => 3:45
+-   5:30 min/km => 3:52
+-   5:40 min/km => 3:59
+-   5:50 min/km => 4:06
+-   6:00 min/km => 4:13
+
 ### KPI:er
 
 Varje vecka kommer följande parametrar att analyseras
@@ -24,10 +32,6 @@ Varje vecka kommer följande parametrar att analyseras
 *   Fettprocent
 *   V02 Max
 *   Vighet/Stelhet
-
-*   Candy.
-*   Gum.
-*   Booze.
 
 Kommentarer till KPI:er 
 De flesta är inga konstigheter. De som går att fundera på är de två nedersta. V02 Max och vighet/stelhet. V02 Max har jag en mätare för som jag ska prova att använda. När det kommer till vighet/stelhet så har jag helt enkelt tänkt mäta hur många cm som jag har kvar till marken då jag böjer mig fram med raka ben. 
