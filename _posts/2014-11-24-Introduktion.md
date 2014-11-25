@@ -31,7 +31,7 @@ Varje vecka kommer följande parametrar/kpier att analyseras
   <tr>
     <th>Vecka</th>
     <th>Antal Träningspass</th>
-    <th>Antal Löpningspass/th>
+    <th>Antal Löpningspass</th>
     <th>Antal KM</th>
     <th>Vikt</th>
     <th>Fettprocent</th>
