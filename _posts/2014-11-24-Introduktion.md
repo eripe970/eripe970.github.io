@@ -36,10 +36,10 @@ Varje vecka kommer följande parametrar/kpier att analyseras
 *   Vighet/Stelhet
 
 #### Kommentarer till KPI:er. 
-De flesta är inga konstigheter. De som går att fundera på är de två nedersta. V02 Max och vighet/stelhet. V02 Max har jag en mätare för som jag ska prova att använda. När det kommer till vighet/stelhet så har jag helt enkelt tänkt mäta hur många cm som jag har kvar till marken då jag böjer mig fram med raka ben. Det är ju ett jäkligt diffust mått på om smidigheten ändras men det är i alla fall bättre än inget! 
+De flesta är inga konstigheter. De som går att fundera på är de två nedersta. V02 Max och vighet/stelhet. V02 Max har jag en mätare för som jag ska prova att använda. När det kommer till vighet/stelhet så har jag helt enkelt tänkt mäta hur många cm som jag har kvar till marken då jag böjer mig fram med raka ben. Det är ju ett jäkligt diffust mått på om smidigheten ändras men det är i alla fall bättre än inget.
 
 ### Material & Kosttillskott
-Detta är två ämnen som ligger mig nära hjärtat och här kommer det varken snålas på kvalitet eller kvantitet! Kostillskott som jag börjar med den 1:a december är olika vitamintillskott som finns på apoteket. Kommer också "krydda på" lite extra med zink och magnesium som kroppen behöver vid mycket träning. BCAA är en favorit så det kommer säkert att försvinna ett par burkar nu under vintern. Har kört BCAA mest under pass tidigare men ska utvärdera hur bra det fungerar efter tuffa löpningspass.   
+Detta är två ämnen som ligger mig nära hjärtat och här kommer det varken snålas på kvalitet eller kvantitet! Kostillskott som jag börjar med den 1:a december är olika vitamintillskott som finns på apoteket. Kommer också "krydda på" lite extra med zink och magnesium som kroppen behöver vid mycket träning. D-vitamin blir det också då solen "lyser" med sin frånvaro. BCAA är också en favorit så det kommer säkert att försvinna ett par burkar nu under vintern. Har kört BCAA mest under pass tidigare men ska utvärdera hur bra det fungerar efter tuffa löpningspass.   
 
 Mer info om material etc kommer i senare inlägg!
 
@@ -48,5 +48,9 @@ Det är en bra fråga. En anledning är att jag vill åt familjerekordet. En ann
 
 ### Inspiration & Annat
 Inspiration av att föra någon form av dagbok/veckobok över träningen och utvecklingen kommer från Hannes Wikander. Han har även inspirerat en del kring kpi-mätningar. 
+
+Tack på förhand till Marcus E som kommer att få dra ett extra tungt lass hemma med extra mycket tvätt, städ och matlagning under 26 veckor ;) Också tack på förhand till Emmet och Sam som kommer att utmana mig i squashhallen, på gymmet eller ute i spåret!
+
+Några dagar kvar till 1 december så nu blir det paj med vaniljsås följ av bio med en stor påse godis! 
 
 /Erik 
