@@ -16,6 +16,7 @@ Nedan är en lista på km tider som behövs för att komma i mål på olika tide
 ### KPI:er
 
 Varje vecka kommer följande parametrar att analyseras
+
 *   Antal Träningspass
 *   Antal Löpningspass
 *   Antal KM
