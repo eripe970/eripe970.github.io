@@ -24,6 +24,10 @@ Varje vecka kommer följande parametrar att analyseras
 *   V02 Max
 *   Vighet/Stelhet
 
+*   Candy.
+*   Gum.
+*   Booze.
+
 Kommentarer till KPI:er 
 De flesta är inga konstigheter. De som går att fundera på är de två nedersta. V02 Max och vighet/stelhet. V02 Max har jag en mätare för som jag ska prova att använda. När det kommer till vighet/stelhet så har jag helt enkelt tänkt mäta hur många cm som jag har kvar till marken då jag böjer mig fram med raka ben. 
 
