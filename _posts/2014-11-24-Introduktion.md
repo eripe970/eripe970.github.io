@@ -16,15 +16,15 @@ Nedan är en lista på km tider som behövs för att komma i mål på olika tide
 ### KPI:er
 
 Varje vecka kommer följande parametrar att analyseras
--   Antal Träningspass
--   Antal Löpningspass
--   Antal KM
--   Vikt
--   Fettprocent
--   V02 Max
--   Vighet/Stelhet
+*   Antal Träningspass
+*   Antal Löpningspass
+*   Antal KM
+*   Vikt
+*   Fettprocent
+*   V02 Max
+*   Vighet/Stelhet
 
-#### Kommentarer till KPI:er 
+Kommentarer till KPI:er 
 De flesta är inga konstigheter. De som går att fundera på är de två nedersta. V02 Max och vighet/stelhet. V02 Max har jag en mätare för som jag ska prova att använda. När det kommer till vighet/stelhet så har jag helt enkelt tänkt mäta hur många cm som jag har kvar till marken då jag böjer mig fram med raka ben. 
 
 ### Material & Kosttillskott
