@@ -14,6 +14,7 @@ Bågen kommer att spännas. Den kommer att spännas rejält. Det är ingen pilb�
 Nedan är en lista på km tider som behövs för att komma i mål på olika tider. Går man efter denna så måste jag ligga på 5:20 fart i snitt. (Då har jag inte dragit av tid för de dubbla toalettbesök som jag brukar få göra under ett långlopp...)  
 
 ### KPI:er
+
 Varje vecka kommer följande parametrar att analyseras
 -   Antal Träningspass
 -   Antal Löpningspass
