@@ -31,6 +31,32 @@ Varje vecka kommer följande parametrar/kpier att analyseras
 |-------|------------|---------------------|----------|------|-------|---------|----------|
 | 0     |            |                     |          |      |       |         |          |
 
++-------+------------+---------------------+----------+------+-------+---------+----------+
+| Vecka | Antal Pass | Antal Löpnings Pass | Antal KM | Vikt | Fett% | VO2 Max | Smidiget |
++-------+------------+---------------------+----------+------+-------+---------+----------+
+| 0     |            |                     |          |      |       |         |          |
++-------+------------+---------------------+----------+------+-------+---------+----------+
+
+{| class="wikitable"
+! Vecka
+! Antal Pass
+! Antal Löpnings Pass
+! Antal KM
+! Vikt
+! Fett%
+! VO2 Max
+! Smidiget
+|-
+| 0
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|}
+
 
 *   Antal Träningspass
 *   Antal Löpningspass
