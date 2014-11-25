@@ -11,13 +11,14 @@ Upplägget kommer alltså att vara 26 veckors träning. En skillnad mot hans pro
 ### KPI:er
 
 Varje vecka kommer följande parametrar att analyseras
-<li>Antal Träningspass</li>
-* Antal Löpningspass
-* Antal KM
-* Vikt
-* Fettprocent
-* V02 Max
-* Vighet/Stelhet
+-  Antal Träningspass
+-  Antal Löpningspass
+-  Antal KM
+-  Vikt
+-  Fettprocent
+-  V02 Max
+-  Vighet/Stelhet
+
 
 ### Målbild
 Bågen kommer att spännas. Den kommer att spännas hårt. Målet är satt till 3:45 i dagsläget. 
