@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Day before D-day
+title: Vecka 0 - Start
 ---
 
 ### Start
-Här kommer en något försenad rapport om vecka 0.
+Här kommer en något försenad rapport om vecka 0. Har inte haft tid att lägga upp den här rapporten tidigare men vägning är gjord måndag morgon. 
+
+För de nyfikna så använder jag Withings våg som mäter vikt, fettprocent, puls och luftkvalitet. Automaitsk sync till iPhone/Android, kan verkligen rekomenderas! Inställningen är deras "default 2011" inställning. Vet inte hur mkt man kan lita på siffrorna men förhoppningvis så stämmer mätningarna relativt varandra. 
 
 <table>
   <tr>
     <th>Vecka</th>
-    <th>Antal Träningspass</th>
-    <th>Antal Löpningspass</th>
+    <th>Antal TP</th>
+    <th>Antal LP</th>
     <th>Antal KM</th>
     <th>Vikt</th>
     <th>Fettprocent</th>
@@ -29,3 +31,6 @@ Här kommer en något försenad rapport om vecka 0.
   </tr>
 
 </table>
+
+* TP = Träningspass
+* LP = Löpingspass
