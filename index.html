@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+disqus_comment_count: true
 ---
 
 <div class="posts">
@@ -12,7 +13,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+   <span class="post-date">{{ post.date | date_to_string }} | <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">0 Comments</a></span>
 
     {{ post.content }}
   </div>
