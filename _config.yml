@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Erik Pettersson
 tagline:             'Mina tankar (tekniska analyser) kring löpning'
 description:         'En blogg om min träning inför Stockholm Marathon'
-url:                 http://lanyon.getpoole.com
+url:                 http://erik-lars-johan.se
 baseurl:             /
 paginate:            5
 
