@@ -14,7 +14,6 @@ disqus_comment_count: true
     </h1>
 
    <span class="post-date">{{ post.date | date_to_string }} | <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">0 Comments</a></span>
-    <span>sd{{ post.id }}</span>
     {{ post.content }}
   </div>
   {% endfor %}
