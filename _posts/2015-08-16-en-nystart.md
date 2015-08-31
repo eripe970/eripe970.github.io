@@ -34,8 +34,8 @@ Sprang Midnattsloppet igår och det känndes fruktansvärt tungt. Kanske hade ja
     <td>7</td>
     <td>3</td>
     <td>~20km</td>
-    <td>N/A</td>
-    <td>N/A</td>
+    <td>96.9</td>
+    <td>23.7</td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
