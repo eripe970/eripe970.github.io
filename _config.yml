@@ -9,7 +9,7 @@ permalink:        /:year/:month/:day/:title/
 title:               Erik Pettersson
 tagline:             'Mina tankar (tekniska analyser) kring löpning'
 description:         'En blogg om min träning inför Stockholm Marathon'
-url:                 http://erik-lars-johan.se
+url:                 http://eripe970.github.io
 baseurl:             /
 paginate:            5
 
